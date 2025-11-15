@@ -46,9 +46,9 @@ Key Takeaways:
 
 Technologies Used:
 
-Python
-PyTorch
-HuggingFace Tokenizers
-NumPy / Pandas
-Matplotlib
+Python,
+PyTorch,
+HuggingFace Tokenizers,
+NumPy / Pandas,
+Matplotlib,
 IMDB Movie Reviews Dataset
