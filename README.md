@@ -14,21 +14,21 @@ Project Features:
 - Built using PyTorch
 
 ✔ Subword Tokenization:
-Uses BERT’s bert-base-uncased subword tokenizer
-Efficient vocabulary size
-Better handling of rare/unseen words
+- Uses BERT’s bert-base-uncased subword tokenizer
+- Efficient vocabulary size
+- Better handling of rare/unseen words
 
 ✔ Full Training Pipeline:
-Data loading from IMDB dataset
-Custom IMDBDataset class
-PyTorch DataLoaders for train/val/test
-Training loop with AdamW optimizer
-Validation + test accuracy computation
+- Data loading from IMDB dataset
+- Custom IMDBDataset class
+- PyTorch DataLoaders for train/val/test
+- Training loop with AdamW optimizer
+- Validation + test accuracy computation
 
 ✔ Sentiment Analysis:
-Binary classification (Positive / Negative)
-Mean pooling for sequence representation
-CrossEntropy loss for training
+- Binary classification (Positive / Negative)
+- Mean pooling for sequence representation
+- CrossEntropy loss for training
 
 Results Summary:
 
@@ -46,9 +46,9 @@ Key Takeaways:
 
 Technologies Used:
 
-Python,
-PyTorch,
-HuggingFace Tokenizers,
-NumPy / Pandas,
-Matplotlib,
-IMDB Movie Reviews Dataset
+- Python
+- PyTorch
+= HuggingFace Tokenizers
+- NumPy / Pandas
+- Matplotlib
+- IMDB Movie Reviews Dataset
