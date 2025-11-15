@@ -48,7 +48,7 @@ Technologies Used:
 
 - Python
 - PyTorch
-= HuggingFace Tokenizers
+- HuggingFace Tokenizers
 - NumPy / Pandas
 - Matplotlib
 - IMDB Movie Reviews Dataset
