@@ -4,14 +4,14 @@ A transformer-based sentiment analysis model trained on large-scale IMDB reviews
 Project Features:
 
 ✔ Custom Transformer Architecture:
-Manual implementation of
-AttentionHead
-MultiHeadAttention
-FeedForward network
-Transformer Block
-Positional + Token embeddings
-Classification head
-Built using PyTorch
+- Manual implementation of
+- AttentionHead
+- MultiHeadAttention
+- FeedForward network
+- Transformer Block
+- Positional + Token embeddings
+- Classification head
+- Built using PyTorch
 
 ✔ Subword Tokenization:
 Uses BERT’s bert-base-uncased subword tokenizer
